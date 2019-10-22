@@ -2,6 +2,7 @@ from maya import cmds
 import maya.OpenMaya as om
 
 #AUTHOR = Nazmi Yazici
+#EMAIL = nazmiprinter@gmail.com
 #WEBSITE = vimeo.com/nazmiprinter
 #DATE = 16/05/2019
 
