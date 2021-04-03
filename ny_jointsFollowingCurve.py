@@ -3,7 +3,7 @@ import maya.OpenMaya as om
 
 #AUTHOR = Nazmi Yazici
 #EMAIL = nazmiprinter@gmail.com
-#WEBSITE = vimeo.com/nazmiprinter
+#WEBSITE = nazmiprinter.com
 #DATE = 16/05/2019
 
 
